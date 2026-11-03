@@ -1,0 +1,561 @@
+post_id,text,product,date,rating
+1,"I love this product, it is amazing and easy to use",Wireless Headphones,2026-09-02,5
+2,"The headphones sound great, but the case feels cheap",Wireless Headphones,2026-09-04,4
+3,Excellent sound quality and comfortable for long calls,Wireless Headphones,2026-09-08,5
+4,Battery life is terrible and the app keeps crashing,Wireless Headphones,2026-09-11,1
+5,"Good value for money, although delivery was late",Wireless Headphones,2026-09-15,4
+6,This service is excellent and the support team was helpful,Meal Delivery,2026-09-03,5
+7,The order arrived late and the package was damaged,Meal Delivery,2026-09-06,2
+8,"Food was delicious, but the delivery took too long",Meal Delivery,2026-09-09,3
+9,Customer service resolved my refund quickly,Meal Delivery,2026-09-13,5
+10,"Poor quality packaging and cold food, very disappointing",Meal Delivery,2026-09-18,1
+11,The new update is easy to use and works perfectly,Mobile App,2026-09-01,5
+12,The update is not good; setup is confusing and slow,Mobile App,2026-09-05,2
+13,"It is okay, nothing special so far",Mobile App,2026-09-10,3
+14,"I do not recommend this app, it crashes every day",Mobile App,2026-09-14,1
+15,Helpful support and a smooth experience after the update,Mobile App,2026-09-19,4
+16,"Great product, but the price is too expensive",Wireless Headphones,2026-10-02,3
+17,"Not bad for the price, and the battery works well",Wireless Headphones,2026-10-07,4
+18,The staff were friendly and fixed the problem,Meal Delivery,2026-10-04,5
+19,Shipping was fast and the product arrived in perfect condition,Wireless Headphones,2026-10-11,5
+20,"Average experience. The service was fine, but not impressive",Meal Delivery,2026-10-16,3
+21,I'm very happy with Wireless Headphones; the build quality is excellent and works smoothly.,Wireless Headphones,2026-10-10,5
+22,Great build quality on the Wireless Headphones. It is reliable and easy to recommend.,Wireless Headphones,2026-10-06,4
+23,The build quality feels fantastic on my Wireless Headphones; I'm impressed with how well it works.,Wireless Headphones,2026-10-15,5
+24,Really pleased with the Wireless Headphones. Its build quality is wonderful and useful.,Wireless Headphones,2026-10-17,4
+25,Excellent experience with the Wireless Headphones: the build quality is great and dependable.,Wireless Headphones,2026-10-08,5
+26,The Wireless Headphones has an average build quality; it is okay for everyday use.,Wireless Headphones,2026-09-03,3
+27,My Wireless Headphones is fine. The build quality is ordinary and nothing special.,Wireless Headphones,2026-10-08,3
+28,The build quality on the Wireless Headphones is neither good nor bad so far.,Wireless Headphones,2026-10-14,3
+29,"I have a mixed, middle-of-the-road view of the Wireless Headphones; its build quality is acceptable.",Wireless Headphones,2026-09-14,3
+30,An ordinary experience with the Wireless Headphones; the build quality is about what I expected.,Wireless Headphones,2026-09-03,3
+31,I'm disappointed with the Wireless Headphones; the build quality is terrible and unreliable.,Wireless Headphones,2026-10-02,1
+32,Poor build quality on the Wireless Headphones. It is frustrating and not worth the price.,Wireless Headphones,2026-10-05,2
+33,The build quality on my Wireless Headphones is awful; it barely works and needs improvement.,Wireless Headphones,2026-09-10,1
+34,"Very unhappy with the Wireless Headphones: the build quality is bad, slow, and difficult to use.",Wireless Headphones,2026-10-23,2
+35,The Wireless Headphones has a frustrating build quality; I hate how poorly it works.,Wireless Headphones,2026-09-17,1
+36,Great price and value on the Wireless Headphones. It is reliable and easy to recommend.,Wireless Headphones,2026-09-01,5
+37,The price and value feels fantastic on my Wireless Headphones; I'm impressed with how well it works.,Wireless Headphones,2026-09-30,4
+38,Really pleased with the Wireless Headphones. Its price and value is wonderful and useful.,Wireless Headphones,2026-09-15,5
+39,Excellent experience with the Wireless Headphones: the price and value is great and dependable.,Wireless Headphones,2026-10-09,4
+40,I'm very happy with Wireless Headphones; the price and value is excellent and works smoothly.,Wireless Headphones,2026-10-23,5
+41,My Wireless Headphones is fine. The price and value is ordinary and nothing special.,Wireless Headphones,2026-09-14,3
+42,The price and value on the Wireless Headphones is neither good nor bad so far.,Wireless Headphones,2026-10-08,3
+43,"I have a mixed, middle-of-the-road view of the Wireless Headphones; its price and value is acceptable.",Wireless Headphones,2026-10-13,3
+44,An ordinary experience with the Wireless Headphones; the price and value is about what I expected.,Wireless Headphones,2026-10-20,3
+45,The Wireless Headphones has an average price and value; it is okay for everyday use.,Wireless Headphones,2026-10-18,3
+46,Poor price and value on the Wireless Headphones. It is frustrating and not worth the price.,Wireless Headphones,2026-10-20,1
+47,The price and value on my Wireless Headphones is awful; it barely works and needs improvement.,Wireless Headphones,2026-09-03,2
+48,"Very unhappy with the Wireless Headphones: the price and value is bad, slow, and difficult to use.",Wireless Headphones,2026-10-08,1
+49,The Wireless Headphones has a frustrating price and value; I hate how poorly it works.,Wireless Headphones,2026-10-25,2
+50,I'm disappointed with the Wireless Headphones; the price and value is terrible and unreliable.,Wireless Headphones,2026-09-01,1
+51,The delivery service feels fantastic on my Wireless Headphones; I'm impressed with how well it works.,Wireless Headphones,2026-09-14,5
+52,Really pleased with the Wireless Headphones. Its delivery service is wonderful and useful.,Wireless Headphones,2026-09-30,4
+53,Excellent experience with the Wireless Headphones: the delivery service is great and dependable.,Wireless Headphones,2026-09-27,5
+54,I'm very happy with Wireless Headphones; the delivery service is excellent and works smoothly.,Wireless Headphones,2026-09-23,4
+55,Great delivery service on the Wireless Headphones. It is reliable and easy to recommend.,Wireless Headphones,2026-10-14,5
+56,The delivery service on the Wireless Headphones is neither good nor bad so far.,Wireless Headphones,2026-10-13,3
+57,"I have a mixed, middle-of-the-road view of the Wireless Headphones; its delivery service is acceptable.",Wireless Headphones,2026-09-14,3
+58,An ordinary experience with the Wireless Headphones; the delivery service is about what I expected.,Wireless Headphones,2026-09-14,3
+59,The Wireless Headphones has an average delivery service; it is okay for everyday use.,Wireless Headphones,2026-09-30,3
+60,My Wireless Headphones is fine. The delivery service is ordinary and nothing special.,Wireless Headphones,2026-09-06,3
+61,The delivery service on my Wireless Headphones is awful; it barely works and needs improvement.,Wireless Headphones,2026-10-10,1
+62,"Very unhappy with the Wireless Headphones: the delivery service is bad, slow, and difficult to use.",Wireless Headphones,2026-10-28,2
+63,The Wireless Headphones has a frustrating delivery service; I hate how poorly it works.,Wireless Headphones,2026-10-24,1
+64,I'm disappointed with the Wireless Headphones; the delivery service is terrible and unreliable.,Wireless Headphones,2026-09-14,2
+65,Poor delivery service on the Wireless Headphones. It is frustrating and not worth the price.,Wireless Headphones,2026-10-23,1
+66,Really pleased with the Wireless Headphones. Its customer service response is wonderful and useful.,Wireless Headphones,2026-09-03,5
+67,Excellent experience with the Wireless Headphones: the customer service response is great and dependable.,Wireless Headphones,2026-10-14,4
+68,I'm very happy with Wireless Headphones; the customer service response is excellent and works smoothly.,Wireless Headphones,2026-09-06,5
+69,Great customer service response on the Wireless Headphones. It is reliable and easy to recommend.,Wireless Headphones,2026-09-13,4
+70,The customer service response feels fantastic on my Wireless Headphones; I'm impressed with how well it works.,Wireless Headphones,2026-10-02,5
+71,"I have a mixed, middle-of-the-road view of the Wireless Headphones; its customer service response is acceptable.",Wireless Headphones,2026-09-04,3
+72,An ordinary experience with the Wireless Headphones; the customer service response is about what I expected.,Wireless Headphones,2026-10-12,3
+73,The Wireless Headphones has an average customer service response; it is okay for everyday use.,Wireless Headphones,2026-10-05,3
+74,My Wireless Headphones is fine. The customer service response is ordinary and nothing special.,Wireless Headphones,2026-09-23,3
+75,The customer service response on the Wireless Headphones is neither good nor bad so far.,Wireless Headphones,2026-09-10,3
+76,"Very unhappy with the Wireless Headphones: the customer service response is bad, slow, and difficult to use.",Wireless Headphones,2026-09-10,1
+77,The Wireless Headphones has a frustrating customer service response; I hate how poorly it works.,Wireless Headphones,2026-10-19,2
+78,I'm disappointed with the Wireless Headphones; the customer service response is terrible and unreliable.,Wireless Headphones,2026-09-10,1
+79,Poor customer service response on the Wireless Headphones. It is frustrating and not worth the price.,Wireless Headphones,2026-10-20,2
+80,The customer service response on my Wireless Headphones is awful; it barely works and needs improvement.,Wireless Headphones,2026-10-18,1
+81,Excellent experience with the Wireless Headphones: the setup and usability is great and dependable.,Wireless Headphones,2026-09-26,5
+82,I'm very happy with Wireless Headphones; the setup and usability is excellent and works smoothly.,Wireless Headphones,2026-10-16,4
+83,Great setup and usability on the Wireless Headphones. It is reliable and easy to recommend.,Wireless Headphones,2026-09-12,5
+84,The setup and usability feels fantastic on my Wireless Headphones; I'm impressed with how well it works.,Wireless Headphones,2026-10-22,4
+85,Really pleased with the Wireless Headphones. Its setup and usability is wonderful and useful.,Wireless Headphones,2026-09-16,5
+86,An ordinary experience with the Wireless Headphones; the setup and usability is about what I expected.,Wireless Headphones,2026-10-02,3
+87,The Wireless Headphones has an average setup and usability; it is okay for everyday use.,Wireless Headphones,2026-09-11,3
+88,My Wireless Headphones is fine. The setup and usability is ordinary and nothing special.,Wireless Headphones,2026-09-16,3
+89,The setup and usability on the Wireless Headphones is neither good nor bad so far.,Wireless Headphones,2026-09-19,3
+90,"I have a mixed, middle-of-the-road view of the Wireless Headphones; its setup and usability is acceptable.",Wireless Headphones,2026-09-25,3
+91,The Wireless Headphones has a frustrating setup and usability; I hate how poorly it works.,Wireless Headphones,2026-10-11,1
+92,I'm disappointed with the Wireless Headphones; the setup and usability is terrible and unreliable.,Wireless Headphones,2026-09-27,2
+93,Poor setup and usability on the Wireless Headphones. It is frustrating and not worth the price.,Wireless Headphones,2026-09-20,1
+94,The setup and usability on my Wireless Headphones is awful; it barely works and needs improvement.,Wireless Headphones,2026-10-15,2
+95,"Very unhappy with the Wireless Headphones: the setup and usability is bad, slow, and difficult to use.",Wireless Headphones,2026-09-24,1
+96,I'm very happy with Wireless Headphones; the battery performance is excellent and works smoothly.,Wireless Headphones,2026-10-21,5
+97,Great battery performance on the Wireless Headphones. It is reliable and easy to recommend.,Wireless Headphones,2026-09-11,4
+98,The battery performance feels fantastic on my Wireless Headphones; I'm impressed with how well it works.,Wireless Headphones,2026-09-15,5
+99,Really pleased with the Wireless Headphones. Its battery performance is wonderful and useful.,Wireless Headphones,2026-09-22,4
+100,Excellent experience with the Wireless Headphones: the battery performance is great and dependable.,Wireless Headphones,2026-09-07,5
+101,The Wireless Headphones has an average battery performance; it is okay for everyday use.,Wireless Headphones,2026-09-22,3
+102,My Wireless Headphones is fine. The battery performance is ordinary and nothing special.,Wireless Headphones,2026-10-02,3
+103,The battery performance on the Wireless Headphones is neither good nor bad so far.,Wireless Headphones,2026-10-19,3
+104,"I have a mixed, middle-of-the-road view of the Wireless Headphones; its battery performance is acceptable.",Wireless Headphones,2026-09-27,3
+105,An ordinary experience with the Wireless Headphones; the battery performance is about what I expected.,Wireless Headphones,2026-10-18,3
+106,I'm disappointed with the Wireless Headphones; the battery performance is terrible and unreliable.,Wireless Headphones,2026-09-08,1
+107,Poor battery performance on the Wireless Headphones. It is frustrating and not worth the price.,Wireless Headphones,2026-09-05,2
+108,The battery performance on my Wireless Headphones is awful; it barely works and needs improvement.,Wireless Headphones,2026-10-28,1
+109,"Very unhappy with the Wireless Headphones: the battery performance is bad, slow, and difficult to use.",Wireless Headphones,2026-10-02,2
+110,The Wireless Headphones has a frustrating battery performance; I hate how poorly it works.,Wireless Headphones,2026-10-28,1
+111,Great build quality on the Meal Delivery. It is reliable and easy to recommend.,Meal Delivery,2026-10-03,5
+112,The build quality feels fantastic on my Meal Delivery; I'm impressed with how well it works.,Meal Delivery,2026-10-03,4
+113,Really pleased with the Meal Delivery. Its build quality is wonderful and useful.,Meal Delivery,2026-09-20,5
+114,Excellent experience with the Meal Delivery: the build quality is great and dependable.,Meal Delivery,2026-10-11,4
+115,I'm very happy with Meal Delivery; the build quality is excellent and works smoothly.,Meal Delivery,2026-09-09,5
+116,My Meal Delivery is fine. The build quality is ordinary and nothing special.,Meal Delivery,2026-10-28,3
+117,The build quality on the Meal Delivery is neither good nor bad so far.,Meal Delivery,2026-09-04,3
+118,"I have a mixed, middle-of-the-road view of the Meal Delivery; its build quality is acceptable.",Meal Delivery,2026-10-11,3
+119,An ordinary experience with the Meal Delivery; the build quality is about what I expected.,Meal Delivery,2026-10-21,3
+120,The Meal Delivery has an average build quality; it is okay for everyday use.,Meal Delivery,2026-09-02,3
+121,Poor build quality on the Meal Delivery. It is frustrating and not worth the price.,Meal Delivery,2026-10-22,1
+122,The build quality on my Meal Delivery is awful; it barely works and needs improvement.,Meal Delivery,2026-09-20,2
+123,"Very unhappy with the Meal Delivery: the build quality is bad, slow, and difficult to use.",Meal Delivery,2026-09-12,1
+124,The Meal Delivery has a frustrating build quality; I hate how poorly it works.,Meal Delivery,2026-10-04,2
+125,I'm disappointed with the Meal Delivery; the build quality is terrible and unreliable.,Meal Delivery,2026-09-23,1
+126,The price and value feels fantastic on my Meal Delivery; I'm impressed with how well it works.,Meal Delivery,2026-09-09,5
+127,Really pleased with the Meal Delivery. Its price and value is wonderful and useful.,Meal Delivery,2026-09-20,4
+128,Excellent experience with the Meal Delivery: the price and value is great and dependable.,Meal Delivery,2026-09-01,5
+129,I'm very happy with Meal Delivery; the price and value is excellent and works smoothly.,Meal Delivery,2026-10-25,4
+130,Great price and value on the Meal Delivery. It is reliable and easy to recommend.,Meal Delivery,2026-09-08,5
+131,The price and value on the Meal Delivery is neither good nor bad so far.,Meal Delivery,2026-09-17,3
+132,"I have a mixed, middle-of-the-road view of the Meal Delivery; its price and value is acceptable.",Meal Delivery,2026-09-26,3
+133,An ordinary experience with the Meal Delivery; the price and value is about what I expected.,Meal Delivery,2026-10-17,3
+134,The Meal Delivery has an average price and value; it is okay for everyday use.,Meal Delivery,2026-10-24,3
+135,My Meal Delivery is fine. The price and value is ordinary and nothing special.,Meal Delivery,2026-09-27,3
+136,The price and value on my Meal Delivery is awful; it barely works and needs improvement.,Meal Delivery,2026-10-21,1
+137,"Very unhappy with the Meal Delivery: the price and value is bad, slow, and difficult to use.",Meal Delivery,2026-09-22,2
+138,The Meal Delivery has a frustrating price and value; I hate how poorly it works.,Meal Delivery,2026-10-26,1
+139,I'm disappointed with the Meal Delivery; the price and value is terrible and unreliable.,Meal Delivery,2026-10-17,2
+140,Poor price and value on the Meal Delivery. It is frustrating and not worth the price.,Meal Delivery,2026-10-07,1
+141,Really pleased with the Meal Delivery. Its delivery service is wonderful and useful.,Meal Delivery,2026-10-22,5
+142,Excellent experience with the Meal Delivery: the delivery service is great and dependable.,Meal Delivery,2026-10-18,4
+143,I'm very happy with Meal Delivery; the delivery service is excellent and works smoothly.,Meal Delivery,2026-10-18,5
+144,Great delivery service on the Meal Delivery. It is reliable and easy to recommend.,Meal Delivery,2026-10-13,4
+145,The delivery service feels fantastic on my Meal Delivery; I'm impressed with how well it works.,Meal Delivery,2026-09-25,5
+146,"I have a mixed, middle-of-the-road view of the Meal Delivery; its delivery service is acceptable.",Meal Delivery,2026-10-05,3
+147,An ordinary experience with the Meal Delivery; the delivery service is about what I expected.,Meal Delivery,2026-09-18,3
+148,The Meal Delivery has an average delivery service; it is okay for everyday use.,Meal Delivery,2026-10-24,3
+149,My Meal Delivery is fine. The delivery service is ordinary and nothing special.,Meal Delivery,2026-10-10,3
+150,The delivery service on the Meal Delivery is neither good nor bad so far.,Meal Delivery,2026-10-19,3
+151,"Very unhappy with the Meal Delivery: the delivery service is bad, slow, and difficult to use.",Meal Delivery,2026-09-15,1
+152,The Meal Delivery has a frustrating delivery service; I hate how poorly it works.,Meal Delivery,2026-09-23,2
+153,I'm disappointed with the Meal Delivery; the delivery service is terrible and unreliable.,Meal Delivery,2026-10-10,1
+154,Poor delivery service on the Meal Delivery. It is frustrating and not worth the price.,Meal Delivery,2026-10-25,2
+155,The delivery service on my Meal Delivery is awful; it barely works and needs improvement.,Meal Delivery,2026-09-10,1
+156,Excellent experience with the Meal Delivery: the customer service response is great and dependable.,Meal Delivery,2026-09-01,5
+157,I'm very happy with Meal Delivery; the customer service response is excellent and works smoothly.,Meal Delivery,2026-09-23,4
+158,Great customer service response on the Meal Delivery. It is reliable and easy to recommend.,Meal Delivery,2026-10-21,5
+159,The customer service response feels fantastic on my Meal Delivery; I'm impressed with how well it works.,Meal Delivery,2026-09-10,4
+160,Really pleased with the Meal Delivery. Its customer service response is wonderful and useful.,Meal Delivery,2026-09-26,5
+161,An ordinary experience with the Meal Delivery; the customer service response is about what I expected.,Meal Delivery,2026-10-18,3
+162,The Meal Delivery has an average customer service response; it is okay for everyday use.,Meal Delivery,2026-10-26,3
+163,My Meal Delivery is fine. The customer service response is ordinary and nothing special.,Meal Delivery,2026-09-29,3
+164,The customer service response on the Meal Delivery is neither good nor bad so far.,Meal Delivery,2026-09-08,3
+165,"I have a mixed, middle-of-the-road view of the Meal Delivery; its customer service response is acceptable.",Meal Delivery,2026-09-20,3
+166,The Meal Delivery has a frustrating customer service response; I hate how poorly it works.,Meal Delivery,2026-10-08,1
+167,I'm disappointed with the Meal Delivery; the customer service response is terrible and unreliable.,Meal Delivery,2026-09-03,2
+168,Poor customer service response on the Meal Delivery. It is frustrating and not worth the price.,Meal Delivery,2026-10-21,1
+169,The customer service response on my Meal Delivery is awful; it barely works and needs improvement.,Meal Delivery,2026-09-04,2
+170,"Very unhappy with the Meal Delivery: the customer service response is bad, slow, and difficult to use.",Meal Delivery,2026-10-13,1
+171,I'm very happy with Meal Delivery; the setup and usability is excellent and works smoothly.,Meal Delivery,2026-09-07,5
+172,Great setup and usability on the Meal Delivery. It is reliable and easy to recommend.,Meal Delivery,2026-10-05,4
+173,The setup and usability feels fantastic on my Meal Delivery; I'm impressed with how well it works.,Meal Delivery,2026-09-05,5
+174,Really pleased with the Meal Delivery. Its setup and usability is wonderful and useful.,Meal Delivery,2026-09-13,4
+175,Excellent experience with the Meal Delivery: the setup and usability is great and dependable.,Meal Delivery,2026-10-09,5
+176,The Meal Delivery has an average setup and usability; it is okay for everyday use.,Meal Delivery,2026-10-14,3
+177,My Meal Delivery is fine. The setup and usability is ordinary and nothing special.,Meal Delivery,2026-09-25,3
+178,The setup and usability on the Meal Delivery is neither good nor bad so far.,Meal Delivery,2026-09-14,3
+179,"I have a mixed, middle-of-the-road view of the Meal Delivery; its setup and usability is acceptable.",Meal Delivery,2026-10-26,3
+180,An ordinary experience with the Meal Delivery; the setup and usability is about what I expected.,Meal Delivery,2026-09-23,3
+181,I'm disappointed with the Meal Delivery; the setup and usability is terrible and unreliable.,Meal Delivery,2026-10-11,1
+182,Poor setup and usability on the Meal Delivery. It is frustrating and not worth the price.,Meal Delivery,2026-10-23,2
+183,The setup and usability on my Meal Delivery is awful; it barely works and needs improvement.,Meal Delivery,2026-10-16,1
+184,"Very unhappy with the Meal Delivery: the setup and usability is bad, slow, and difficult to use.",Meal Delivery,2026-09-18,2
+185,The Meal Delivery has a frustrating setup and usability; I hate how poorly it works.,Meal Delivery,2026-10-19,1
+186,Great battery performance on the Meal Delivery. It is reliable and easy to recommend.,Meal Delivery,2026-10-22,5
+187,The battery performance feels fantastic on my Meal Delivery; I'm impressed with how well it works.,Meal Delivery,2026-09-26,4
+188,Really pleased with the Meal Delivery. Its battery performance is wonderful and useful.,Meal Delivery,2026-09-18,5
+189,Excellent experience with the Meal Delivery: the battery performance is great and dependable.,Meal Delivery,2026-09-29,4
+190,I'm very happy with Meal Delivery; the battery performance is excellent and works smoothly.,Meal Delivery,2026-10-08,5
+191,My Meal Delivery is fine. The battery performance is ordinary and nothing special.,Meal Delivery,2026-09-17,3
+192,The battery performance on the Meal Delivery is neither good nor bad so far.,Meal Delivery,2026-09-09,3
+193,"I have a mixed, middle-of-the-road view of the Meal Delivery; its battery performance is acceptable.",Meal Delivery,2026-10-23,3
+194,An ordinary experience with the Meal Delivery; the battery performance is about what I expected.,Meal Delivery,2026-10-06,3
+195,The Meal Delivery has an average battery performance; it is okay for everyday use.,Meal Delivery,2026-09-25,3
+196,Poor battery performance on the Meal Delivery. It is frustrating and not worth the price.,Meal Delivery,2026-09-16,1
+197,The battery performance on my Meal Delivery is awful; it barely works and needs improvement.,Meal Delivery,2026-09-14,2
+198,"Very unhappy with the Meal Delivery: the battery performance is bad, slow, and difficult to use.",Meal Delivery,2026-10-26,1
+199,The Meal Delivery has a frustrating battery performance; I hate how poorly it works.,Meal Delivery,2026-09-07,2
+200,I'm disappointed with the Meal Delivery; the battery performance is terrible and unreliable.,Meal Delivery,2026-09-15,1
+201,The build quality feels fantastic on my Mobile App; I'm impressed with how well it works.,Mobile App,2026-09-21,5
+202,Really pleased with the Mobile App. Its build quality is wonderful and useful.,Mobile App,2026-09-08,4
+203,Excellent experience with the Mobile App: the build quality is great and dependable.,Mobile App,2026-10-03,5
+204,I'm very happy with Mobile App; the build quality is excellent and works smoothly.,Mobile App,2026-10-26,4
+205,Great build quality on the Mobile App. It is reliable and easy to recommend.,Mobile App,2026-10-05,5
+206,The build quality on the Mobile App is neither good nor bad so far.,Mobile App,2026-09-01,3
+207,"I have a mixed, middle-of-the-road view of the Mobile App; its build quality is acceptable.",Mobile App,2026-10-12,3
+208,An ordinary experience with the Mobile App; the build quality is about what I expected.,Mobile App,2026-09-25,3
+209,The Mobile App has an average build quality; it is okay for everyday use.,Mobile App,2026-09-07,3
+210,My Mobile App is fine. The build quality is ordinary and nothing special.,Mobile App,2026-09-20,3
+211,The build quality on my Mobile App is awful; it barely works and needs improvement.,Mobile App,2026-09-10,1
+212,"Very unhappy with the Mobile App: the build quality is bad, slow, and difficult to use.",Mobile App,2026-09-14,2
+213,The Mobile App has a frustrating build quality; I hate how poorly it works.,Mobile App,2026-09-06,1
+214,I'm disappointed with the Mobile App; the build quality is terrible and unreliable.,Mobile App,2026-09-18,2
+215,Poor build quality on the Mobile App. It is frustrating and not worth the price.,Mobile App,2026-09-29,1
+216,Really pleased with the Mobile App. Its price and value is wonderful and useful.,Mobile App,2026-10-16,5
+217,Excellent experience with the Mobile App: the price and value is great and dependable.,Mobile App,2026-09-14,4
+218,I'm very happy with Mobile App; the price and value is excellent and works smoothly.,Mobile App,2026-10-28,5
+219,Great price and value on the Mobile App. It is reliable and easy to recommend.,Mobile App,2026-09-02,4
+220,The price and value feels fantastic on my Mobile App; I'm impressed with how well it works.,Mobile App,2026-10-22,5
+221,"I have a mixed, middle-of-the-road view of the Mobile App; its price and value is acceptable.",Mobile App,2026-10-18,3
+222,An ordinary experience with the Mobile App; the price and value is about what I expected.,Mobile App,2026-10-04,3
+223,The Mobile App has an average price and value; it is okay for everyday use.,Mobile App,2026-10-06,3
+224,My Mobile App is fine. The price and value is ordinary and nothing special.,Mobile App,2026-10-22,3
+225,The price and value on the Mobile App is neither good nor bad so far.,Mobile App,2026-09-01,3
+226,"Very unhappy with the Mobile App: the price and value is bad, slow, and difficult to use.",Mobile App,2026-09-07,1
+227,The Mobile App has a frustrating price and value; I hate how poorly it works.,Mobile App,2026-09-08,2
+228,I'm disappointed with the Mobile App; the price and value is terrible and unreliable.,Mobile App,2026-09-17,1
+229,Poor price and value on the Mobile App. It is frustrating and not worth the price.,Mobile App,2026-10-13,2
+230,The price and value on my Mobile App is awful; it barely works and needs improvement.,Mobile App,2026-10-19,1
+231,Excellent experience with the Mobile App: the delivery service is great and dependable.,Mobile App,2026-10-15,5
+232,I'm very happy with Mobile App; the delivery service is excellent and works smoothly.,Mobile App,2026-10-26,4
+233,Great delivery service on the Mobile App. It is reliable and easy to recommend.,Mobile App,2026-10-23,5
+234,The delivery service feels fantastic on my Mobile App; I'm impressed with how well it works.,Mobile App,2026-09-09,4
+235,Really pleased with the Mobile App. Its delivery service is wonderful and useful.,Mobile App,2026-10-08,5
+236,An ordinary experience with the Mobile App; the delivery service is about what I expected.,Mobile App,2026-10-01,3
+237,The Mobile App has an average delivery service; it is okay for everyday use.,Mobile App,2026-10-23,3
+238,My Mobile App is fine. The delivery service is ordinary and nothing special.,Mobile App,2026-09-29,3
+239,The delivery service on the Mobile App is neither good nor bad so far.,Mobile App,2026-10-26,3
+240,"I have a mixed, middle-of-the-road view of the Mobile App; its delivery service is acceptable.",Mobile App,2026-10-08,3
+241,The Mobile App has a frustrating delivery service; I hate how poorly it works.,Mobile App,2026-09-20,1
+242,I'm disappointed with the Mobile App; the delivery service is terrible and unreliable.,Mobile App,2026-10-05,2
+243,Poor delivery service on the Mobile App. It is frustrating and not worth the price.,Mobile App,2026-10-11,1
+244,The delivery service on my Mobile App is awful; it barely works and needs improvement.,Mobile App,2026-10-27,2
+245,"Very unhappy with the Mobile App: the delivery service is bad, slow, and difficult to use.",Mobile App,2026-09-13,1
+246,I'm very happy with Mobile App; the customer service response is excellent and works smoothly.,Mobile App,2026-10-14,5
+247,Great customer service response on the Mobile App. It is reliable and easy to recommend.,Mobile App,2026-09-15,4
+248,The customer service response feels fantastic on my Mobile App; I'm impressed with how well it works.,Mobile App,2026-09-06,5
+249,Really pleased with the Mobile App. Its customer service response is wonderful and useful.,Mobile App,2026-09-12,4
+250,Excellent experience with the Mobile App: the customer service response is great and dependable.,Mobile App,2026-10-06,5
+251,The Mobile App has an average customer service response; it is okay for everyday use.,Mobile App,2026-10-27,3
+252,My Mobile App is fine. The customer service response is ordinary and nothing special.,Mobile App,2026-09-22,3
+253,The customer service response on the Mobile App is neither good nor bad so far.,Mobile App,2026-10-13,3
+254,"I have a mixed, middle-of-the-road view of the Mobile App; its customer service response is acceptable.",Mobile App,2026-10-18,3
+255,An ordinary experience with the Mobile App; the customer service response is about what I expected.,Mobile App,2026-10-08,3
+256,I'm disappointed with the Mobile App; the customer service response is terrible and unreliable.,Mobile App,2026-10-14,1
+257,Poor customer service response on the Mobile App. It is frustrating and not worth the price.,Mobile App,2026-10-04,2
+258,The customer service response on my Mobile App is awful; it barely works and needs improvement.,Mobile App,2026-09-29,1
+259,"Very unhappy with the Mobile App: the customer service response is bad, slow, and difficult to use.",Mobile App,2026-09-30,2
+260,The Mobile App has a frustrating customer service response; I hate how poorly it works.,Mobile App,2026-09-13,1
+261,Great setup and usability on the Mobile App. It is reliable and easy to recommend.,Mobile App,2026-09-01,5
+262,The setup and usability feels fantastic on my Mobile App; I'm impressed with how well it works.,Mobile App,2026-10-11,4
+263,Really pleased with the Mobile App. Its setup and usability is wonderful and useful.,Mobile App,2026-09-11,5
+264,Excellent experience with the Mobile App: the setup and usability is great and dependable.,Mobile App,2026-09-01,4
+265,I'm very happy with Mobile App; the setup and usability is excellent and works smoothly.,Mobile App,2026-09-23,5
+266,My Mobile App is fine. The setup and usability is ordinary and nothing special.,Mobile App,2026-10-02,3
+267,The setup and usability on the Mobile App is neither good nor bad so far.,Mobile App,2026-10-16,3
+268,"I have a mixed, middle-of-the-road view of the Mobile App; its setup and usability is acceptable.",Mobile App,2026-10-21,3
+269,An ordinary experience with the Mobile App; the setup and usability is about what I expected.,Mobile App,2026-09-29,3
+270,The Mobile App has an average setup and usability; it is okay for everyday use.,Mobile App,2026-09-12,3
+271,Poor setup and usability on the Mobile App. It is frustrating and not worth the price.,Mobile App,2026-10-18,1
+272,The setup and usability on my Mobile App is awful; it barely works and needs improvement.,Mobile App,2026-09-29,2
+273,"Very unhappy with the Mobile App: the setup and usability is bad, slow, and difficult to use.",Mobile App,2026-09-12,1
+274,The Mobile App has a frustrating setup and usability; I hate how poorly it works.,Mobile App,2026-09-30,2
+275,I'm disappointed with the Mobile App; the setup and usability is terrible and unreliable.,Mobile App,2026-10-19,1
+276,The battery performance feels fantastic on my Mobile App; I'm impressed with how well it works.,Mobile App,2026-10-14,5
+277,Really pleased with the Mobile App. Its battery performance is wonderful and useful.,Mobile App,2026-10-28,4
+278,Excellent experience with the Mobile App: the battery performance is great and dependable.,Mobile App,2026-09-21,5
+279,I'm very happy with Mobile App; the battery performance is excellent and works smoothly.,Mobile App,2026-10-25,4
+280,Great battery performance on the Mobile App. It is reliable and easy to recommend.,Mobile App,2026-09-04,5
+281,The battery performance on the Mobile App is neither good nor bad so far.,Mobile App,2026-10-01,3
+282,"I have a mixed, middle-of-the-road view of the Mobile App; its battery performance is acceptable.",Mobile App,2026-10-03,3
+283,An ordinary experience with the Mobile App; the battery performance is about what I expected.,Mobile App,2026-09-02,3
+284,The Mobile App has an average battery performance; it is okay for everyday use.,Mobile App,2026-10-14,3
+285,My Mobile App is fine. The battery performance is ordinary and nothing special.,Mobile App,2026-09-09,3
+286,The battery performance on my Mobile App is awful; it barely works and needs improvement.,Mobile App,2026-10-03,1
+287,"Very unhappy with the Mobile App: the battery performance is bad, slow, and difficult to use.",Mobile App,2026-09-04,2
+288,The Mobile App has a frustrating battery performance; I hate how poorly it works.,Mobile App,2026-09-22,1
+289,I'm disappointed with the Mobile App; the battery performance is terrible and unreliable.,Mobile App,2026-10-25,2
+290,Poor battery performance on the Mobile App. It is frustrating and not worth the price.,Mobile App,2026-09-26,1
+291,Really pleased with the Smart Speaker. Its build quality is wonderful and useful.,Smart Speaker,2026-10-20,5
+292,Excellent experience with the Smart Speaker: the build quality is great and dependable.,Smart Speaker,2026-09-23,4
+293,I'm very happy with Smart Speaker; the build quality is excellent and works smoothly.,Smart Speaker,2026-10-28,5
+294,Great build quality on the Smart Speaker. It is reliable and easy to recommend.,Smart Speaker,2026-10-24,4
+295,The build quality feels fantastic on my Smart Speaker; I'm impressed with how well it works.,Smart Speaker,2026-10-25,5
+296,"I have a mixed, middle-of-the-road view of the Smart Speaker; its build quality is acceptable.",Smart Speaker,2026-10-02,3
+297,An ordinary experience with the Smart Speaker; the build quality is about what I expected.,Smart Speaker,2026-09-02,3
+298,The Smart Speaker has an average build quality; it is okay for everyday use.,Smart Speaker,2026-09-27,3
+299,My Smart Speaker is fine. The build quality is ordinary and nothing special.,Smart Speaker,2026-09-30,3
+300,The build quality on the Smart Speaker is neither good nor bad so far.,Smart Speaker,2026-10-03,3
+301,"Very unhappy with the Smart Speaker: the build quality is bad, slow, and difficult to use.",Smart Speaker,2026-09-22,1
+302,The Smart Speaker has a frustrating build quality; I hate how poorly it works.,Smart Speaker,2026-09-18,2
+303,I'm disappointed with the Smart Speaker; the build quality is terrible and unreliable.,Smart Speaker,2026-10-01,1
+304,Poor build quality on the Smart Speaker. It is frustrating and not worth the price.,Smart Speaker,2026-09-05,2
+305,The build quality on my Smart Speaker is awful; it barely works and needs improvement.,Smart Speaker,2026-10-02,1
+306,Excellent experience with the Smart Speaker: the price and value is great and dependable.,Smart Speaker,2026-10-26,5
+307,I'm very happy with Smart Speaker; the price and value is excellent and works smoothly.,Smart Speaker,2026-09-08,4
+308,Great price and value on the Smart Speaker. It is reliable and easy to recommend.,Smart Speaker,2026-09-20,5
+309,The price and value feels fantastic on my Smart Speaker; I'm impressed with how well it works.,Smart Speaker,2026-10-16,4
+310,Really pleased with the Smart Speaker. Its price and value is wonderful and useful.,Smart Speaker,2026-09-06,5
+311,An ordinary experience with the Smart Speaker; the price and value is about what I expected.,Smart Speaker,2026-10-20,3
+312,The Smart Speaker has an average price and value; it is okay for everyday use.,Smart Speaker,2026-09-13,3
+313,My Smart Speaker is fine. The price and value is ordinary and nothing special.,Smart Speaker,2026-09-07,3
+314,The price and value on the Smart Speaker is neither good nor bad so far.,Smart Speaker,2026-09-09,3
+315,"I have a mixed, middle-of-the-road view of the Smart Speaker; its price and value is acceptable.",Smart Speaker,2026-09-05,3
+316,The Smart Speaker has a frustrating price and value; I hate how poorly it works.,Smart Speaker,2026-10-26,1
+317,I'm disappointed with the Smart Speaker; the price and value is terrible and unreliable.,Smart Speaker,2026-09-25,2
+318,Poor price and value on the Smart Speaker. It is frustrating and not worth the price.,Smart Speaker,2026-09-26,1
+319,The price and value on my Smart Speaker is awful; it barely works and needs improvement.,Smart Speaker,2026-09-25,2
+320,"Very unhappy with the Smart Speaker: the price and value is bad, slow, and difficult to use.",Smart Speaker,2026-09-19,1
+321,I'm very happy with Smart Speaker; the delivery service is excellent and works smoothly.,Smart Speaker,2026-09-26,5
+322,Great delivery service on the Smart Speaker. It is reliable and easy to recommend.,Smart Speaker,2026-10-07,4
+323,The delivery service feels fantastic on my Smart Speaker; I'm impressed with how well it works.,Smart Speaker,2026-09-06,5
+324,Really pleased with the Smart Speaker. Its delivery service is wonderful and useful.,Smart Speaker,2026-09-07,4
+325,Excellent experience with the Smart Speaker: the delivery service is great and dependable.,Smart Speaker,2026-09-03,5
+326,The Smart Speaker has an average delivery service; it is okay for everyday use.,Smart Speaker,2026-09-24,3
+327,My Smart Speaker is fine. The delivery service is ordinary and nothing special.,Smart Speaker,2026-10-04,3
+328,The delivery service on the Smart Speaker is neither good nor bad so far.,Smart Speaker,2026-10-22,3
+329,"I have a mixed, middle-of-the-road view of the Smart Speaker; its delivery service is acceptable.",Smart Speaker,2026-09-10,3
+330,An ordinary experience with the Smart Speaker; the delivery service is about what I expected.,Smart Speaker,2026-09-13,3
+331,I'm disappointed with the Smart Speaker; the delivery service is terrible and unreliable.,Smart Speaker,2026-10-12,1
+332,Poor delivery service on the Smart Speaker. It is frustrating and not worth the price.,Smart Speaker,2026-09-19,2
+333,The delivery service on my Smart Speaker is awful; it barely works and needs improvement.,Smart Speaker,2026-09-21,1
+334,"Very unhappy with the Smart Speaker: the delivery service is bad, slow, and difficult to use.",Smart Speaker,2026-09-22,2
+335,The Smart Speaker has a frustrating delivery service; I hate how poorly it works.,Smart Speaker,2026-09-30,1
+336,Great customer service response on the Smart Speaker. It is reliable and easy to recommend.,Smart Speaker,2026-10-18,5
+337,The customer service response feels fantastic on my Smart Speaker; I'm impressed with how well it works.,Smart Speaker,2026-10-10,4
+338,Really pleased with the Smart Speaker. Its customer service response is wonderful and useful.,Smart Speaker,2026-09-07,5
+339,Excellent experience with the Smart Speaker: the customer service response is great and dependable.,Smart Speaker,2026-09-23,4
+340,I'm very happy with Smart Speaker; the customer service response is excellent and works smoothly.,Smart Speaker,2026-09-30,5
+341,My Smart Speaker is fine. The customer service response is ordinary and nothing special.,Smart Speaker,2026-10-22,3
+342,The customer service response on the Smart Speaker is neither good nor bad so far.,Smart Speaker,2026-09-28,3
+343,"I have a mixed, middle-of-the-road view of the Smart Speaker; its customer service response is acceptable.",Smart Speaker,2026-10-05,3
+344,An ordinary experience with the Smart Speaker; the customer service response is about what I expected.,Smart Speaker,2026-10-13,3
+345,The Smart Speaker has an average customer service response; it is okay for everyday use.,Smart Speaker,2026-09-18,3
+346,Poor customer service response on the Smart Speaker. It is frustrating and not worth the price.,Smart Speaker,2026-10-17,1
+347,The customer service response on my Smart Speaker is awful; it barely works and needs improvement.,Smart Speaker,2026-10-06,2
+348,"Very unhappy with the Smart Speaker: the customer service response is bad, slow, and difficult to use.",Smart Speaker,2026-10-10,1
+349,The Smart Speaker has a frustrating customer service response; I hate how poorly it works.,Smart Speaker,2026-10-03,2
+350,I'm disappointed with the Smart Speaker; the customer service response is terrible and unreliable.,Smart Speaker,2026-10-03,1
+351,The setup and usability feels fantastic on my Smart Speaker; I'm impressed with how well it works.,Smart Speaker,2026-10-11,5
+352,Really pleased with the Smart Speaker. Its setup and usability is wonderful and useful.,Smart Speaker,2026-09-04,4
+353,Excellent experience with the Smart Speaker: the setup and usability is great and dependable.,Smart Speaker,2026-10-26,5
+354,I'm very happy with Smart Speaker; the setup and usability is excellent and works smoothly.,Smart Speaker,2026-10-06,4
+355,Great setup and usability on the Smart Speaker. It is reliable and easy to recommend.,Smart Speaker,2026-10-08,5
+356,The setup and usability on the Smart Speaker is neither good nor bad so far.,Smart Speaker,2026-09-11,3
+357,"I have a mixed, middle-of-the-road view of the Smart Speaker; its setup and usability is acceptable.",Smart Speaker,2026-09-23,3
+358,An ordinary experience with the Smart Speaker; the setup and usability is about what I expected.,Smart Speaker,2026-09-21,3
+359,The Smart Speaker has an average setup and usability; it is okay for everyday use.,Smart Speaker,2026-09-29,3
+360,My Smart Speaker is fine. The setup and usability is ordinary and nothing special.,Smart Speaker,2026-10-25,3
+361,The setup and usability on my Smart Speaker is awful; it barely works and needs improvement.,Smart Speaker,2026-10-07,1
+362,"Very unhappy with the Smart Speaker: the setup and usability is bad, slow, and difficult to use.",Smart Speaker,2026-10-20,2
+363,The Smart Speaker has a frustrating setup and usability; I hate how poorly it works.,Smart Speaker,2026-09-22,1
+364,I'm disappointed with the Smart Speaker; the setup and usability is terrible and unreliable.,Smart Speaker,2026-09-22,2
+365,Poor setup and usability on the Smart Speaker. It is frustrating and not worth the price.,Smart Speaker,2026-09-13,1
+366,Really pleased with the Smart Speaker. Its battery performance is wonderful and useful.,Smart Speaker,2026-10-20,5
+367,Excellent experience with the Smart Speaker: the battery performance is great and dependable.,Smart Speaker,2026-09-25,4
+368,I'm very happy with Smart Speaker; the battery performance is excellent and works smoothly.,Smart Speaker,2026-09-20,5
+369,Great battery performance on the Smart Speaker. It is reliable and easy to recommend.,Smart Speaker,2026-09-09,4
+370,The battery performance feels fantastic on my Smart Speaker; I'm impressed with how well it works.,Smart Speaker,2026-10-15,5
+371,"I have a mixed, middle-of-the-road view of the Smart Speaker; its battery performance is acceptable.",Smart Speaker,2026-10-05,3
+372,An ordinary experience with the Smart Speaker; the battery performance is about what I expected.,Smart Speaker,2026-09-11,3
+373,The Smart Speaker has an average battery performance; it is okay for everyday use.,Smart Speaker,2026-10-23,3
+374,My Smart Speaker is fine. The battery performance is ordinary and nothing special.,Smart Speaker,2026-10-03,3
+375,The battery performance on the Smart Speaker is neither good nor bad so far.,Smart Speaker,2026-09-22,3
+376,"Very unhappy with the Smart Speaker: the battery performance is bad, slow, and difficult to use.",Smart Speaker,2026-09-03,1
+377,The Smart Speaker has a frustrating battery performance; I hate how poorly it works.,Smart Speaker,2026-09-27,2
+378,I'm disappointed with the Smart Speaker; the battery performance is terrible and unreliable.,Smart Speaker,2026-09-19,1
+379,Poor battery performance on the Smart Speaker. It is frustrating and not worth the price.,Smart Speaker,2026-09-17,2
+380,The battery performance on my Smart Speaker is awful; it barely works and needs improvement.,Smart Speaker,2026-09-18,1
+381,Excellent experience with the Fitness App: the build quality is great and dependable.,Fitness App,2026-10-08,5
+382,I'm very happy with Fitness App; the build quality is excellent and works smoothly.,Fitness App,2026-10-18,4
+383,Great build quality on the Fitness App. It is reliable and easy to recommend.,Fitness App,2026-09-15,5
+384,The build quality feels fantastic on my Fitness App; I'm impressed with how well it works.,Fitness App,2026-09-10,4
+385,Really pleased with the Fitness App. Its build quality is wonderful and useful.,Fitness App,2026-09-30,5
+386,An ordinary experience with the Fitness App; the build quality is about what I expected.,Fitness App,2026-10-17,3
+387,The Fitness App has an average build quality; it is okay for everyday use.,Fitness App,2026-10-14,3
+388,My Fitness App is fine. The build quality is ordinary and nothing special.,Fitness App,2026-10-06,3
+389,The build quality on the Fitness App is neither good nor bad so far.,Fitness App,2026-10-26,3
+390,"I have a mixed, middle-of-the-road view of the Fitness App; its build quality is acceptable.",Fitness App,2026-10-24,3
+391,The Fitness App has a frustrating build quality; I hate how poorly it works.,Fitness App,2026-09-01,1
+392,I'm disappointed with the Fitness App; the build quality is terrible and unreliable.,Fitness App,2026-09-23,2
+393,Poor build quality on the Fitness App. It is frustrating and not worth the price.,Fitness App,2026-09-10,1
+394,The build quality on my Fitness App is awful; it barely works and needs improvement.,Fitness App,2026-10-14,2
+395,"Very unhappy with the Fitness App: the build quality is bad, slow, and difficult to use.",Fitness App,2026-09-12,1
+396,I'm very happy with Fitness App; the price and value is excellent and works smoothly.,Fitness App,2026-10-07,5
+397,Great price and value on the Fitness App. It is reliable and easy to recommend.,Fitness App,2026-09-26,4
+398,The price and value feels fantastic on my Fitness App; I'm impressed with how well it works.,Fitness App,2026-09-20,5
+399,Really pleased with the Fitness App. Its price and value is wonderful and useful.,Fitness App,2026-10-23,4
+400,Excellent experience with the Fitness App: the price and value is great and dependable.,Fitness App,2026-09-26,5
+401,The Fitness App has an average price and value; it is okay for everyday use.,Fitness App,2026-10-21,3
+402,My Fitness App is fine. The price and value is ordinary and nothing special.,Fitness App,2026-10-18,3
+403,The price and value on the Fitness App is neither good nor bad so far.,Fitness App,2026-09-01,3
+404,"I have a mixed, middle-of-the-road view of the Fitness App; its price and value is acceptable.",Fitness App,2026-10-12,3
+405,An ordinary experience with the Fitness App; the price and value is about what I expected.,Fitness App,2026-10-20,3
+406,I'm disappointed with the Fitness App; the price and value is terrible and unreliable.,Fitness App,2026-09-20,1
+407,Poor price and value on the Fitness App. It is frustrating and not worth the price.,Fitness App,2026-10-08,2
+408,The price and value on my Fitness App is awful; it barely works and needs improvement.,Fitness App,2026-10-22,1
+409,"Very unhappy with the Fitness App: the price and value is bad, slow, and difficult to use.",Fitness App,2026-09-21,2
+410,The Fitness App has a frustrating price and value; I hate how poorly it works.,Fitness App,2026-10-18,1
+411,Great delivery service on the Fitness App. It is reliable and easy to recommend.,Fitness App,2026-09-16,5
+412,The delivery service feels fantastic on my Fitness App; I'm impressed with how well it works.,Fitness App,2026-10-13,4
+413,Really pleased with the Fitness App. Its delivery service is wonderful and useful.,Fitness App,2026-09-01,5
+414,Excellent experience with the Fitness App: the delivery service is great and dependable.,Fitness App,2026-09-23,4
+415,I'm very happy with Fitness App; the delivery service is excellent and works smoothly.,Fitness App,2026-09-08,5
+416,My Fitness App is fine. The delivery service is ordinary and nothing special.,Fitness App,2026-10-16,3
+417,The delivery service on the Fitness App is neither good nor bad so far.,Fitness App,2026-10-07,3
+418,"I have a mixed, middle-of-the-road view of the Fitness App; its delivery service is acceptable.",Fitness App,2026-10-06,3
+419,An ordinary experience with the Fitness App; the delivery service is about what I expected.,Fitness App,2026-09-27,3
+420,The Fitness App has an average delivery service; it is okay for everyday use.,Fitness App,2026-10-27,3
+421,Poor delivery service on the Fitness App. It is frustrating and not worth the price.,Fitness App,2026-10-04,1
+422,The delivery service on my Fitness App is awful; it barely works and needs improvement.,Fitness App,2026-09-04,2
+423,"Very unhappy with the Fitness App: the delivery service is bad, slow, and difficult to use.",Fitness App,2026-10-27,1
+424,The Fitness App has a frustrating delivery service; I hate how poorly it works.,Fitness App,2026-10-01,2
+425,I'm disappointed with the Fitness App; the delivery service is terrible and unreliable.,Fitness App,2026-09-16,1
+426,The customer service response feels fantastic on my Fitness App; I'm impressed with how well it works.,Fitness App,2026-09-19,5
+427,Really pleased with the Fitness App. Its customer service response is wonderful and useful.,Fitness App,2026-10-08,4
+428,Excellent experience with the Fitness App: the customer service response is great and dependable.,Fitness App,2026-10-11,5
+429,I'm very happy with Fitness App; the customer service response is excellent and works smoothly.,Fitness App,2026-10-17,4
+430,Great customer service response on the Fitness App. It is reliable and easy to recommend.,Fitness App,2026-09-19,5
+431,The customer service response on the Fitness App is neither good nor bad so far.,Fitness App,2026-09-18,3
+432,"I have a mixed, middle-of-the-road view of the Fitness App; its customer service response is acceptable.",Fitness App,2026-10-21,3
+433,An ordinary experience with the Fitness App; the customer service response is about what I expected.,Fitness App,2026-10-10,3
+434,The Fitness App has an average customer service response; it is okay for everyday use.,Fitness App,2026-10-13,3
+435,My Fitness App is fine. The customer service response is ordinary and nothing special.,Fitness App,2026-10-23,3
+436,The customer service response on my Fitness App is awful; it barely works and needs improvement.,Fitness App,2026-10-25,1
+437,"Very unhappy with the Fitness App: the customer service response is bad, slow, and difficult to use.",Fitness App,2026-10-21,2
+438,The Fitness App has a frustrating customer service response; I hate how poorly it works.,Fitness App,2026-09-29,1
+439,I'm disappointed with the Fitness App; the customer service response is terrible and unreliable.,Fitness App,2026-09-08,2
+440,Poor customer service response on the Fitness App. It is frustrating and not worth the price.,Fitness App,2026-10-19,1
+441,Really pleased with the Fitness App. Its setup and usability is wonderful and useful.,Fitness App,2026-10-18,5
+442,Excellent experience with the Fitness App: the setup and usability is great and dependable.,Fitness App,2026-09-30,4
+443,I'm very happy with Fitness App; the setup and usability is excellent and works smoothly.,Fitness App,2026-10-16,5
+444,Great setup and usability on the Fitness App. It is reliable and easy to recommend.,Fitness App,2026-10-05,4
+445,The setup and usability feels fantastic on my Fitness App; I'm impressed with how well it works.,Fitness App,2026-10-17,5
+446,"I have a mixed, middle-of-the-road view of the Fitness App; its setup and usability is acceptable.",Fitness App,2026-09-13,3
+447,An ordinary experience with the Fitness App; the setup and usability is about what I expected.,Fitness App,2026-09-24,3
+448,The Fitness App has an average setup and usability; it is okay for everyday use.,Fitness App,2026-09-01,3
+449,My Fitness App is fine. The setup and usability is ordinary and nothing special.,Fitness App,2026-09-18,3
+450,The setup and usability on the Fitness App is neither good nor bad so far.,Fitness App,2026-09-19,3
+451,"Very unhappy with the Fitness App: the setup and usability is bad, slow, and difficult to use.",Fitness App,2026-09-08,1
+452,The Fitness App has a frustrating setup and usability; I hate how poorly it works.,Fitness App,2026-10-13,2
+453,I'm disappointed with the Fitness App; the setup and usability is terrible and unreliable.,Fitness App,2026-09-25,1
+454,Poor setup and usability on the Fitness App. It is frustrating and not worth the price.,Fitness App,2026-10-23,2
+455,The setup and usability on my Fitness App is awful; it barely works and needs improvement.,Fitness App,2026-10-22,1
+456,Excellent experience with the Fitness App: the battery performance is great and dependable.,Fitness App,2026-10-07,5
+457,I'm very happy with Fitness App; the battery performance is excellent and works smoothly.,Fitness App,2026-10-26,4
+458,Great battery performance on the Fitness App. It is reliable and easy to recommend.,Fitness App,2026-10-26,5
+459,The battery performance feels fantastic on my Fitness App; I'm impressed with how well it works.,Fitness App,2026-09-18,4
+460,Really pleased with the Fitness App. Its battery performance is wonderful and useful.,Fitness App,2026-09-02,5
+461,An ordinary experience with the Fitness App; the battery performance is about what I expected.,Fitness App,2026-10-27,3
+462,The Fitness App has an average battery performance; it is okay for everyday use.,Fitness App,2026-09-20,3
+463,My Fitness App is fine. The battery performance is ordinary and nothing special.,Fitness App,2026-10-18,3
+464,The battery performance on the Fitness App is neither good nor bad so far.,Fitness App,2026-10-08,3
+465,"I have a mixed, middle-of-the-road view of the Fitness App; its battery performance is acceptable.",Fitness App,2026-10-10,3
+466,The Fitness App has a frustrating battery performance; I hate how poorly it works.,Fitness App,2026-09-15,1
+467,I'm disappointed with the Fitness App; the battery performance is terrible and unreliable.,Fitness App,2026-09-18,2
+468,Poor battery performance on the Fitness App. It is frustrating and not worth the price.,Fitness App,2026-09-28,1
+469,The battery performance on my Fitness App is awful; it barely works and needs improvement.,Fitness App,2026-09-07,2
+470,"Very unhappy with the Fitness App: the battery performance is bad, slow, and difficult to use.",Fitness App,2026-09-21,1
+471,I'm very happy with Laptop Stand; the build quality is excellent and works smoothly.,Laptop Stand,2026-09-15,5
+472,Great build quality on the Laptop Stand. It is reliable and easy to recommend.,Laptop Stand,2026-09-11,4
+473,The build quality feels fantastic on my Laptop Stand; I'm impressed with how well it works.,Laptop Stand,2026-10-23,5
+474,Really pleased with the Laptop Stand. Its build quality is wonderful and useful.,Laptop Stand,2026-09-30,4
+475,Excellent experience with the Laptop Stand: the build quality is great and dependable.,Laptop Stand,2026-10-05,5
+476,The Laptop Stand has an average build quality; it is okay for everyday use.,Laptop Stand,2026-09-08,3
+477,My Laptop Stand is fine. The build quality is ordinary and nothing special.,Laptop Stand,2026-09-27,3
+478,The build quality on the Laptop Stand is neither good nor bad so far.,Laptop Stand,2026-10-24,3
+479,"I have a mixed, middle-of-the-road view of the Laptop Stand; its build quality is acceptable.",Laptop Stand,2026-10-28,3
+480,An ordinary experience with the Laptop Stand; the build quality is about what I expected.,Laptop Stand,2026-10-08,3
+481,I'm disappointed with the Laptop Stand; the build quality is terrible and unreliable.,Laptop Stand,2026-10-02,1
+482,Poor build quality on the Laptop Stand. It is frustrating and not worth the price.,Laptop Stand,2026-09-12,2
+483,The build quality on my Laptop Stand is awful; it barely works and needs improvement.,Laptop Stand,2026-10-28,1
+484,"Very unhappy with the Laptop Stand: the build quality is bad, slow, and difficult to use.",Laptop Stand,2026-09-06,2
+485,The Laptop Stand has a frustrating build quality; I hate how poorly it works.,Laptop Stand,2026-09-03,1
+486,Great price and value on the Laptop Stand. It is reliable and easy to recommend.,Laptop Stand,2026-09-28,5
+487,The price and value feels fantastic on my Laptop Stand; I'm impressed with how well it works.,Laptop Stand,2026-09-25,4
+488,Really pleased with the Laptop Stand. Its price and value is wonderful and useful.,Laptop Stand,2026-09-20,5
+489,Excellent experience with the Laptop Stand: the price and value is great and dependable.,Laptop Stand,2026-09-11,4
+490,I'm very happy with Laptop Stand; the price and value is excellent and works smoothly.,Laptop Stand,2026-10-20,5
+491,My Laptop Stand is fine. The price and value is ordinary and nothing special.,Laptop Stand,2026-10-02,3
+492,The price and value on the Laptop Stand is neither good nor bad so far.,Laptop Stand,2026-10-03,3
+493,"I have a mixed, middle-of-the-road view of the Laptop Stand; its price and value is acceptable.",Laptop Stand,2026-09-09,3
+494,An ordinary experience with the Laptop Stand; the price and value is about what I expected.,Laptop Stand,2026-10-04,3
+495,The Laptop Stand has an average price and value; it is okay for everyday use.,Laptop Stand,2026-10-16,3
+496,Poor price and value on the Laptop Stand. It is frustrating and not worth the price.,Laptop Stand,2026-10-20,1
+497,The price and value on my Laptop Stand is awful; it barely works and needs improvement.,Laptop Stand,2026-10-16,2
+498,"Very unhappy with the Laptop Stand: the price and value is bad, slow, and difficult to use.",Laptop Stand,2026-09-09,1
+499,The Laptop Stand has a frustrating price and value; I hate how poorly it works.,Laptop Stand,2026-09-14,2
+500,I'm disappointed with the Laptop Stand; the price and value is terrible and unreliable.,Laptop Stand,2026-09-18,1
+501,The delivery service feels fantastic on my Laptop Stand; I'm impressed with how well it works.,Laptop Stand,2026-09-22,5
+502,Really pleased with the Laptop Stand. Its delivery service is wonderful and useful.,Laptop Stand,2026-09-19,4
+503,Excellent experience with the Laptop Stand: the delivery service is great and dependable.,Laptop Stand,2026-09-15,5
+504,I'm very happy with Laptop Stand; the delivery service is excellent and works smoothly.,Laptop Stand,2026-10-20,4
+505,Great delivery service on the Laptop Stand. It is reliable and easy to recommend.,Laptop Stand,2026-10-01,5
+506,The delivery service on the Laptop Stand is neither good nor bad so far.,Laptop Stand,2026-10-11,3
+507,"I have a mixed, middle-of-the-road view of the Laptop Stand; its delivery service is acceptable.",Laptop Stand,2026-10-28,3
+508,An ordinary experience with the Laptop Stand; the delivery service is about what I expected.,Laptop Stand,2026-10-15,3
+509,The Laptop Stand has an average delivery service; it is okay for everyday use.,Laptop Stand,2026-09-12,3
+510,My Laptop Stand is fine. The delivery service is ordinary and nothing special.,Laptop Stand,2026-10-12,3
+511,The delivery service on my Laptop Stand is awful; it barely works and needs improvement.,Laptop Stand,2026-10-17,1
+512,"Very unhappy with the Laptop Stand: the delivery service is bad, slow, and difficult to use.",Laptop Stand,2026-09-09,2
+513,The Laptop Stand has a frustrating delivery service; I hate how poorly it works.,Laptop Stand,2026-09-25,1
+514,I'm disappointed with the Laptop Stand; the delivery service is terrible and unreliable.,Laptop Stand,2026-09-23,2
+515,Poor delivery service on the Laptop Stand. It is frustrating and not worth the price.,Laptop Stand,2026-09-01,1
+516,Really pleased with the Laptop Stand. Its customer service response is wonderful and useful.,Laptop Stand,2026-10-24,5
+517,Excellent experience with the Laptop Stand: the customer service response is great and dependable.,Laptop Stand,2026-10-10,4
+518,I'm very happy with Laptop Stand; the customer service response is excellent and works smoothly.,Laptop Stand,2026-09-10,5
+519,Great customer service response on the Laptop Stand. It is reliable and easy to recommend.,Laptop Stand,2026-09-05,4
+520,The customer service response feels fantastic on my Laptop Stand; I'm impressed with how well it works.,Laptop Stand,2026-09-20,5
+521,"I have a mixed, middle-of-the-road view of the Laptop Stand; its customer service response is acceptable.",Laptop Stand,2026-10-25,3
+522,An ordinary experience with the Laptop Stand; the customer service response is about what I expected.,Laptop Stand,2026-09-12,3
+523,The Laptop Stand has an average customer service response; it is okay for everyday use.,Laptop Stand,2026-10-24,3
+524,My Laptop Stand is fine. The customer service response is ordinary and nothing special.,Laptop Stand,2026-10-01,3
+525,The customer service response on the Laptop Stand is neither good nor bad so far.,Laptop Stand,2026-09-30,3
+526,"Very unhappy with the Laptop Stand: the customer service response is bad, slow, and difficult to use.",Laptop Stand,2026-09-24,1
+527,The Laptop Stand has a frustrating customer service response; I hate how poorly it works.,Laptop Stand,2026-10-23,2
+528,I'm disappointed with the Laptop Stand; the customer service response is terrible and unreliable.,Laptop Stand,2026-09-22,1
+529,Poor customer service response on the Laptop Stand. It is frustrating and not worth the price.,Laptop Stand,2026-10-23,2
+530,The customer service response on my Laptop Stand is awful; it barely works and needs improvement.,Laptop Stand,2026-10-21,1
+531,Excellent experience with the Laptop Stand: the setup and usability is great and dependable.,Laptop Stand,2026-09-27,5
+532,I'm very happy with Laptop Stand; the setup and usability is excellent and works smoothly.,Laptop Stand,2026-09-22,4
+533,Great setup and usability on the Laptop Stand. It is reliable and easy to recommend.,Laptop Stand,2026-09-28,5
+534,The setup and usability feels fantastic on my Laptop Stand; I'm impressed with how well it works.,Laptop Stand,2026-10-10,4
+535,Really pleased with the Laptop Stand. Its setup and usability is wonderful and useful.,Laptop Stand,2026-10-15,5
+536,An ordinary experience with the Laptop Stand; the setup and usability is about what I expected.,Laptop Stand,2026-09-12,3
+537,The Laptop Stand has an average setup and usability; it is okay for everyday use.,Laptop Stand,2026-09-08,3
+538,My Laptop Stand is fine. The setup and usability is ordinary and nothing special.,Laptop Stand,2026-09-02,3
+539,The setup and usability on the Laptop Stand is neither good nor bad so far.,Laptop Stand,2026-09-04,3
+540,"I have a mixed, middle-of-the-road view of the Laptop Stand; its setup and usability is acceptable.",Laptop Stand,2026-10-10,3
+541,The Laptop Stand has a frustrating setup and usability; I hate how poorly it works.,Laptop Stand,2026-10-22,1
+542,I'm disappointed with the Laptop Stand; the setup and usability is terrible and unreliable.,Laptop Stand,2026-10-16,2
+543,Poor setup and usability on the Laptop Stand. It is frustrating and not worth the price.,Laptop Stand,2026-10-13,1
+544,The setup and usability on my Laptop Stand is awful; it barely works and needs improvement.,Laptop Stand,2026-09-09,2
+545,"Very unhappy with the Laptop Stand: the setup and usability is bad, slow, and difficult to use.",Laptop Stand,2026-09-11,1
+546,I'm very happy with Laptop Stand; the battery performance is excellent and works smoothly.,Laptop Stand,2026-09-13,5
+547,Great battery performance on the Laptop Stand. It is reliable and easy to recommend.,Laptop Stand,2026-10-24,4
+548,The battery performance feels fantastic on my Laptop Stand; I'm impressed with how well it works.,Laptop Stand,2026-10-02,5
+549,Really pleased with the Laptop Stand. Its battery performance is wonderful and useful.,Laptop Stand,2026-10-16,4
+550,Excellent experience with the Laptop Stand: the battery performance is great and dependable.,Laptop Stand,2026-09-22,5
+551,The Laptop Stand has an average battery performance; it is okay for everyday use.,Laptop Stand,2026-09-03,3
+552,My Laptop Stand is fine. The battery performance is ordinary and nothing special.,Laptop Stand,2026-09-02,3
+553,The battery performance on the Laptop Stand is neither good nor bad so far.,Laptop Stand,2026-09-10,3
+554,"I have a mixed, middle-of-the-road view of the Laptop Stand; its battery performance is acceptable.",Laptop Stand,2026-09-13,3
+555,An ordinary experience with the Laptop Stand; the battery performance is about what I expected.,Laptop Stand,2026-10-09,3
+556,I'm disappointed with the Laptop Stand; the battery performance is terrible and unreliable.,Laptop Stand,2026-10-12,1
+557,Poor battery performance on the Laptop Stand. It is frustrating and not worth the price.,Laptop Stand,2026-09-12,2
+558,The battery performance on my Laptop Stand is awful; it barely works and needs improvement.,Laptop Stand,2026-10-26,1
+559,"Very unhappy with the Laptop Stand: the battery performance is bad, slow, and difficult to use.",Laptop Stand,2026-10-02,2
+560,The Laptop Stand has a frustrating battery performance; I hate how poorly it works.,Laptop Stand,2026-09-16,1
